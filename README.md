@@ -54,7 +54,7 @@ video-engagement-prediction/
 
 ### Feature Importance Comparison
 
-![Feature Importance Comparison](visuals/feature_importance_comparison.png)
+![Feature Importance Comparison](visuals/feature_importance.png)
 
 ## 🔧 Run Locally
 
