@@ -21,11 +21,11 @@ video-engagement-prediction/
 │   ├── train.csv
 │   └── test.csv
 ├── scripts/
-│   └── assignment4.py
+│   └── Video-engagement-prediction.py
 ├── notebooks/
 ├── visuals/
 │   ├── roc_curve.png
-│   └── feature_importance_comparison.png
+│   └── feature_importance.png
 ├── LICENSE
 ├── README.md
 ├── requirements.txt
